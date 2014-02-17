@@ -2,7 +2,7 @@
 name: "Jinliang Yang"
 description: "My blog"
 
-url: "http://yangjl.github.io/cn"
+url: http://yangjl.github.io/cn
 
 paginate: 10
 
