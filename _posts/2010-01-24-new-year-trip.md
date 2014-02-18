@@ -18,14 +18,14 @@ tags: [有时走走]
 
 #### <i class="icon-folder-open"></i>一些旅行的相片：
 
+![alt text](https://www.dropbox.com/s/po45j80q08oi9i5/hwi1.jpeg)
 晒太阳的大脚
-![alt text]({{ ASSET_PATH }}/img/hwi1.ipeg)
 
+![alt text](https://www.dropbox.com/s/po45j80q08oi9i5/hwi1.jpeg)
 海边的秋千
-![alt text]({{ ASSET_PATH }}/img/hwi2.ipeg)
 
+![alt text](https://www.dropbox.com/s/po45j80q08oi9i5/hwi1.jpeg)
 去冲浪的美女
-![alt text]({{ ASSET_PATH }}/img/hwi3.ipeg)
 
+![alt text](https://www.dropbox.com/s/po45j80q08oi9i5/hwi1.jpeg)
 椰子树边的大房子
-![alt text]({{ ASSET_PATH }}/img/hwi4.ipeg)
