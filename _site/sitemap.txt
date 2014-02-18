@@ -1,15 +1,15 @@
 
-/about/about.html
-/about.html
-/archive.html
-/atom.xml
-/categories.html
-/index.html
-/pages.html
-/rss.xml
-/sitemap.txt
-/tags.html
+http://yangjl.me/cn/about.html
+http://yangjl.me/cn/archive.html
+http://yangjl.me/cn/atom.xml
+http://yangjl.me/cn/categories.html
+http://yangjl.me/cn/index.html
+http://yangjl.me/cn/pages.html
+http://yangjl.me/cn/rss.xml
+http://yangjl.me/cn/sitemap.txt
+http://yangjl.me/cn/tags.html
 
-/2013/11/hello-world/
-/2013/08/hello-world/
-/2011/12/jekyll-introduction/
+http://yangjl.me/cn/2013/11/05/hello-world
+http://yangjl.me/cn/2013/08/28/hello-world
+http://yangjl.me/cn/lessons/2011/12/29/jekyll-introduction
+http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2010/01/24/%E6%96%B0%E5%B9%B4%E9%A3%9E%E8%A1%8C
