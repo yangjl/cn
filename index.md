@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BigData meets Genetics
+title: 遗传解码 | BigData meets Genetics
 ---
 
 <ul class="posts">
