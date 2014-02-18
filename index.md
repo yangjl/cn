@@ -1,7 +1,8 @@
 ---
 layout: page
-title: 遗传解码 | BigData meets Genetics
+title: 遗传解码 | Coding Genetic Codes
 ---
+{% include JB/setup %}
 
 <ul class="posts">
   {% for post in site.posts %}
