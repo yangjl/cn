@@ -12,4 +12,4 @@ http://yangjl.me/cn/tags.html
 http://yangjl.me/cn/2013/11/05/hello-world
 http://yangjl.me/cn/2013/08/28/hello-world
 http://yangjl.me/cn/lessons/2011/12/29/jekyll-introduction
-http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2010/01/24/%E6%96%B0%E5%B9%B4%E9%A3%9E%E8%A1%8C
+http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2010/01/24/new-year-trip
