@@ -9,7 +9,10 @@ http://yangjl.me/cn/rss.xml
 http://yangjl.me/cn/sitemap.txt
 http://yangjl.me/cn/tags.html
 
+http://yangjl.me/cn/%E5%AD%A6%E6%9C%AF%E5%8D%9A/2014/03/07/NGS-maize
+http://yangjl.me/cn/jc/2014/02/19/Journal-Club-1
 http://yangjl.me/cn/2013/11/05/hello-world
-http://yangjl.me/cn/2013/08/28/hello-world
 http://yangjl.me/cn/lessons/2011/12/29/jekyll-introduction
 http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2010/01/24/new-year-trip
+http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/08/16/high-way-danger
+http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/11/country-poetry
