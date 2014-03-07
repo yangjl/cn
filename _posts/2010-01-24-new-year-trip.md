@@ -18,7 +18,7 @@ tags: [旅行, 生活]
 
 #### <i class="icon-folder-open"></i>一些旅行的相片：
 
-![Imgur](http://i.imgur.com/wfcl48O.ipg)
+![alt text](http://i.imgur.com/wfcl48O.ipg)
                                 晒太阳的大脚
 
 ![alt text](http://i.imgur.com/DLNk6QA.jpg)
