@@ -5,8 +5,8 @@
         <description>Jinliang Yang - Jinliang Yang</description>
         <link>http://yangjl.me/cn</link>
         <link>http://yangjl.me/cn</link>
-        <lastBuildDate>2014-03-07T16:01:42-06:00</lastBuildDate>
-        <pubDate>2014-03-07T16:01:42-06:00</pubDate>
+        <lastBuildDate>2014-03-07T17:33:07-06:00</lastBuildDate>
+        <pubDate>2014-03-07T17:33:07-06:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -118,444 +118,21 @@
         </item>
 
         <item>
-                <title>Deleterious Mutation Load</title>
-                <description>&lt;p&gt;在NGS时代，群体遗传学以及进化的光芒基本全部被铺天盖地的织袜子（关联分析，俗称GWAS，属数量遗传学）掩盖了。
-过去，那些方向是纯脑力劳动，年富力强的教授副教授们，啪啪啪啪，就能天马行空的整出文章来。看的人云里雾里。
-碍于历史和数据的局限，很多理论也无法证伪，只能争论争论作罢。&lt;/p&gt;
+                <title>文献俱乐部（1）</title>
+                <description>&lt;p&gt;在NGS时代，群体遗传学以及进化的光芒基本全部被铺天盖地的&lt;a href=&quot;http://en.wikipedia.org/wiki/Genome-wide_association_study&quot;&gt;织袜子&lt;/a&gt;（关联分析，俗称GWAS，属数量遗传学）掩盖了。过去，群体和进化那些方向是纯脑力劳动，年富力强的教授副教授们，啪啪啪啪，就能天马行空的整出文章来。看的人云里雾里。碍于历史和数据的局限，很多理论也无法证伪，只能争论争论作罢。&lt;/p&gt;
 
-&lt;p&gt;NGS生产了天量的数据。现在的问题是，这波浪潮还没有完全席卷那些传统领域。或者至少有一定的时间差。这个时间差，
-导致群体或进化遗传学的大家们没有能力分析这些数据。尽管空有满腹的猜想，奈何撼动不了这些数据。&lt;/p&gt;
+&lt;p&gt;NGS生产了天量的数据。现在的问题是，这波浪潮还没有完全席卷那些传统领域。或者至少有一定的时间差。这个时间差，导致群体或进化遗传学的大家们没有能力分析这些数据。尽管空有满腹的猜想，奈何撼动不了这些数据，也只得作罢。&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;Simons, Y. B., Turchin, M. C., Pritchard, J. K., &amp;amp; Sella, G. (2014). The deleterious \
-mutation load is insensitive to recent population history. Nature Genetics,\
-(August 2013). doi:10.1038/ng.2896
+&lt;pre&gt;&lt;code&gt;Simons, Y. B., Turchin, M. C., Pritchard, J. K., &amp;amp; Sella, G. (2014). The deleterious mutation load is insensitive to recent population history. Nature Genetics, (August 2013). doi:10.1038/ng.2896
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;当然，也有聪明绝顶的，如上面这篇NG文章的作者们（希望没有绝顶）。作者在猜想，模拟，验证中，部分解决了两个蛮
-有意思的问题。&lt;/p&gt;
+&lt;h4&gt;&lt;i class=&quot;icon-folder-open&quot;&gt;&lt;/i&gt;&lt;a href=&quot;http://www.nature.com/ng/journal/v46/n3/full/ng.2896.html&quot;&gt;文献地址&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;当然，也有聪明绝顶的大牛们，如上面这篇NG文章（希望作者本人没有绝顶）。作者在猜想，模拟，验证中，解决了两个蛮有意思的问题。而且，人家公开数据的再利用。在这个方面，值得再下功夫。&lt;/p&gt;
 </description>
-                <link>http://yangjl.me/cn/jc/2014/02/19/Journal-Club-1</link>
-                <guid>http://yangjl.me/cn/jc/2014/02/19/Journal-Club-1</guid>
+                <link>http://yangjl.me/cn/%E6%96%87%E7%8C%AE%E4%BF%B1%E4%B9%90%E9%83%A8/2014/02/19/Journal-Club-1</link>
+                <guid>http://yangjl.me/cn/%E6%96%87%E7%8C%AE%E4%BF%B1%E4%B9%90%E9%83%A8/2014/02/19/Journal-Club-1</guid>
                 <pubDate>2014-02-19T00:00:00-06:00</pubDate>
-        </item>
-
-        <item>
-                <title>hello world</title>
-                <description>
-</description>
-                <link>http://yangjl.me/cn/2013/11/05/hello-world</link>
-                <guid>http://yangjl.me/cn/2013/11/05/hello-world</guid>
-                <pubDate>2013-11-05T00:00:00-06:00</pubDate>
-        </item>
-
-        <item>
-                <title>Jekyll Introduction</title>
-                <description>&lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
-Directly following the intro we&#39;ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
-
-&lt;h2&gt;Overview&lt;/h2&gt;
-
-&lt;h3&gt;What is Jekyll?&lt;/h3&gt;
-
-&lt;p&gt;Jekyll is a parsing engine bundled as a ruby gem used to build static websites from
-dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as &quot;a simple, blog aware, static site generator&quot;.&lt;/p&gt;
-
-&lt;h3&gt;Examples&lt;/h3&gt;
-
-&lt;p&gt;This website is created with Jekyll. &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Sites&quot;&gt;Other Jekyll websites&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;What does Jekyll Do?&lt;/h3&gt;
-
-&lt;p&gt;Jekyll is a ruby gem you install on your local system.
-Once there you can call &lt;code&gt;jekyll --server&lt;/code&gt; on a directory and provided that directory
-is setup in a way jekyll expects, it will do magic stuff like parse markdown/textile files,
-compute categories, tags, permalinks, and construct your pages from layout templates and partials.&lt;/p&gt;
-
-&lt;p&gt;Once parsed, Jekyll stores the result in a self-contained static &lt;code&gt;_site&lt;/code&gt; folder.
-The intention here is that you can serve all contents in this folder statically from a plain static web-server.&lt;/p&gt;
-
-&lt;p&gt;You can think of Jekyll as a normalish dynamic blog but rather than parsing content, templates, and tags
-on each request, Jekyll does this once &lt;em&gt;beforehand&lt;/em&gt; and caches the &lt;em&gt;entire website&lt;/em&gt; in a folder for serving statically.&lt;/p&gt;
-
-&lt;h3&gt;Jekyll is Not Blogging Software&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Jekyll is a parsing engine.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Jekyll does not come with any content nor does it have any templates or design elements.
-This is a common source of confusion when getting started.
-Jekyll does not come with anything you actually use or see on your website - you have to make it.&lt;/p&gt;
-
-&lt;h3&gt;Why Should I Care?&lt;/h3&gt;
-
-&lt;p&gt;Jekyll is very minimalistic and very efficient.
-The most important thing to realize about Jekyll is that it creates a static representation of your website requiring only a static web-server.
-Traditional dynamic blogs like Wordpress require a database and server-side code.
-Heavily trafficked dynamic blogs must employ a caching layer that ultimately performs the same job Jekyll sets out to do; serve static content.&lt;/p&gt;
-
-&lt;p&gt;Therefore if you like to keep things simple and you prefer the command-line over an admin panel UI then give Jekyll a try.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Developers like Jekyll because we can write content like we write code:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ability to write content in markdown or textile in your favorite text-editor.&lt;/li&gt;
-&lt;li&gt;Ability to write and preview your content via localhost.&lt;/li&gt;
-&lt;li&gt;No internet connection required.&lt;/li&gt;
-&lt;li&gt;Ability to publish via git.&lt;/li&gt;
-&lt;li&gt;Ability to host your blog on a static web-server.&lt;/li&gt;
-&lt;li&gt;Ability to host freely on GitHub Pages.&lt;/li&gt;
-&lt;li&gt;No database required.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h1&gt;How Jekyll Works&lt;/h1&gt;
-
-&lt;p&gt;The following is a complete but concise outline of exactly how Jekyll works.&lt;/p&gt;
-
-&lt;p&gt;Be aware that core concepts are introduced in rapid succession without code examples.
-This information is not intended to specifically teach you how to do anything, rather it
-is intended to give you the &lt;em&gt;full picture&lt;/em&gt; relative to what is going on in Jekyll-world.&lt;/p&gt;
-
-&lt;p&gt;Learning these core concepts should help you avoid common frustrations and ultimately
-help you better understand the code examples contained throughout Jekyll-Bootstrap.&lt;/p&gt;
-
-&lt;h2&gt;Initial Setup&lt;/h2&gt;
-
-&lt;p&gt;After &lt;a href=&quot;/index.html#start-now&quot;&gt;installing jekyll&lt;/a&gt; you&#39;ll need to format your website directory in a way jekyll expects.
-Jekyll-bootstrap conveniently provides the base directory format.&lt;/p&gt;
-
-&lt;h3&gt;The Jekyll Application Base Format&lt;/h3&gt;
-
-&lt;p&gt;Jekyll expects your website directory to be laid out like so:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;.
-|-- _config.yml
-|-- _includes
-|-- _layouts
-|   |-- default.html
-|   |-- post.html
-|-- _posts
-|   |-- 2011-10-25-open-source-is-good.markdown
-|   |-- 2011-04-26-hello-world.markdown
-|-- _site
-|-- index.html
-|-- assets
-    |-- css
-        |-- style.css
-    |-- javascripts
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;_config.yml&lt;/strong&gt;&lt;br/&gt;
-  Stores configuration data.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;_includes&lt;/strong&gt;&lt;br/&gt;
-  This folder is for partial views.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;_layouts&lt;/strong&gt; &lt;br/&gt;
-  This folder is for the main templates your content will be inserted into.
-  You can have different layouts for different pages or page sections.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;_posts&lt;/strong&gt;&lt;br/&gt;
-  This folder contains your dynamic content/posts.
-  the naming format is required to be &lt;code&gt;@YEAR-MONTH-DATE-title.MARKUP@&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;_site&lt;/strong&gt;&lt;br/&gt;
-  This is where the generated site will be placed once Jekyll is done transforming it.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;assets&lt;/strong&gt;&lt;br/&gt;
-  This folder is not part of the standard jekyll structure.
-  The assets folder represents &lt;em&gt;any generic&lt;/em&gt; folder you happen to create in your root directory.
-  Directories and files not properly formatted for jekyll will be left untouched for you to serve normally.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;(read more: &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Usage&quot;&gt;https://github.com/mojombo/jekyll/wiki/Usage&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h3&gt;Jekyll Configuration&lt;/h3&gt;
-
-&lt;p&gt;Jekyll supports various configuration options that are fully outlined here:
-&lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Configuration&quot;&gt;https://github.com/mojombo/jekyll/wiki/Configuration&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2&gt;Content in Jekyll&lt;/h2&gt;
-
-&lt;p&gt;Content in Jekyll is either a post or a page.
-These content &quot;objects&quot; get inserted into one or more templates to build the final output for its respective static-page.&lt;/p&gt;
-
-&lt;h3&gt;Posts and Pages&lt;/h3&gt;
-
-&lt;p&gt;Both posts and pages should be written in markdown, textile, or HTML and may also contain Liquid templating syntax.
-Both posts and pages can have meta-data assigned on a per-page basis such as title, url path, as well as arbitrary custom meta-data.&lt;/p&gt;
-
-&lt;h3&gt;Working With Posts&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Creating a Post&lt;/strong&gt; &lt;br/&gt;
-Posts are created by properly formatting a file and placing it the &lt;code&gt;_posts&lt;/code&gt; folder.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt;&lt;br/&gt;
-A post must have a valid filename in the form &lt;code&gt;YEAR-MONTH-DATE-title.MARKUP&lt;/code&gt; and be placed in the &lt;code&gt;_posts&lt;/code&gt; directory.
-If the data format is invalid Jekyll will not recognize the file as a post. The date and title are automatically parsed from the filename of the post file.
-Additionally, each file must have &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter&quot;&gt;YAML Front-Matter&lt;/a&gt; prepended to its content.
-YAML Front-Matter is a valid YAML syntax specifying meta-data for the given file.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Order&lt;/strong&gt;&lt;br/&gt;
-Ordering is an important part of Jekyll but it is hard to specify a custom ordering strategy.
-Only reverse chronological and chronological ordering is supported in Jekyll.&lt;/p&gt;
-
-&lt;p&gt;Since the date is hard-coded into the filename format, to change the order, you must change the dates in the filenames.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tags&lt;/strong&gt; &lt;br/&gt;
-Posts can have tags associated with them as part of their meta-data.
-Tags may be placed on posts by providing them in the post&#39;s YAML front matter.
-You have access to the post-specific tags in the templates. These tags also get added to the sitewide collection.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;br/&gt;
-Posts may be categorized by providing one or more categories in the YAML front matter.
-Categories offer more significance over tags in that they can be reflected in the URL path to the given post.
-Note categories in Jekyll work in a specific way.
-If you define more than one category you are defining a category hierarchy &quot;set&quot;.
-Example:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;---
-title :  Hello World
-categories : [lessons, beginner]
----
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;This defines the category hierarchy &quot;lessons/beginner&quot;. Note this is &lt;em&gt;one category&lt;/em&gt; node in Jekyll.
-You won&#39;t find &quot;lessons&quot; and &quot;beginner&quot; as two separate categories unless you define them elsewhere as singular categories.&lt;/p&gt;
-
-&lt;h3&gt;Working With Pages&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Creating a Page&lt;/strong&gt;&lt;br/&gt;
-Pages are created by properly formatting a file and placing it anywhere in the root directory or subdirectories that do &lt;em&gt;not&lt;/em&gt; start with an underscore.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt;&lt;br/&gt;
-In order to register as a Jekyll page the file must contain &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter&quot;&gt;YAML Front-Matter&lt;/a&gt;.
-Registering a page means 1) that Jekyll will process the page and 2) that the page object will be available in the &lt;code&gt;site.pages&lt;/code&gt; array for inclusion into your templates.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Categories and Tags&lt;/strong&gt;&lt;br/&gt;
-Pages do not compute categories nor tags so defining them will have no effect.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sub-Directories&lt;/strong&gt;&lt;br/&gt;
-If pages are defined in sub-directories, the path to the page will be reflected in the url.
-Example:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;.
-|-- people
-    |-- bob
-        |-- essay.html
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;This page will be available at &lt;code&gt;http://yourdomain.com/people/bob/essay.html&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Recommended Pages&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;index.html&lt;/strong&gt;&lt;br/&gt;
-You will always want to define the root index.html page as this will display on your root URL.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;404.html&lt;/strong&gt;&lt;br/&gt;
-Create a root 404.html page and GitHub Pages will serve it as your 404 response.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;sitemap.html&lt;/strong&gt;&lt;br/&gt;
-Generating a sitemap is good practice for SEO.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;about.html&lt;/strong&gt;&lt;br/&gt;
-A nice about page is easy to do and gives the human perspective to your website.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h2&gt;Templates in Jekyll&lt;/h2&gt;
-
-&lt;p&gt;Templates are used to contain a page&#39;s or post&#39;s content.
-All templates have access to a global site object variable: &lt;code&gt;site&lt;/code&gt; as well as a page object variable: &lt;code&gt;page&lt;/code&gt;.
-The site variable holds all accessible content and metadata relative to the site.
-The page variable holds accessible data for the given page or post being rendered at that point.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Create a Template&lt;/strong&gt;&lt;br/&gt;
-Templates are created by properly formatting a file and placing it in the &lt;code&gt;_layouts&lt;/code&gt; directory.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt;&lt;br/&gt;
-Templates should be coded in HTML and contain YAML Front Matter.
-All templates can contain Liquid code to work with your site&#39;s data.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Rending Page/Post Content in a Template&lt;/strong&gt;&lt;br/&gt;
-There is a special variable in all templates named : &lt;code&gt;content&lt;/code&gt;.
-The &lt;code&gt;content&lt;/code&gt; variable holds the page/post content including any sub-template content previously defined.
-Render the content variable wherever you want your main content to be injected into your template:&lt;/p&gt;
-
-&lt;p&gt;  &lt;pre&gt;&lt;code&gt;...
-&amp;lt;body&amp;gt;
-  &amp;lt;div id=&quot;sidebar&quot;&amp;gt; ... &amp;lt;/div&amp;gt;
-  &amp;lt;div id=&quot;main&quot;&amp;gt;
-    &amp;#123;{content}&amp;#125;
-  &amp;lt;/div&amp;gt;
-&amp;lt;/body&amp;gt;
-...&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
-
-&lt;h3&gt;Sub-Templates&lt;/h3&gt;
-
-&lt;p&gt;Sub-templates are exactly templates with the only difference being they
-define another &quot;root&quot; layout/template within their YAML Front Matter.
-This essentially means a template will render inside of another template.&lt;/p&gt;
-
-&lt;h3&gt;Includes&lt;/h3&gt;
-
-&lt;p&gt;In Jekyll you can define include files by placing them in the &lt;code&gt;_includes&lt;/code&gt; folder.
-Includes are NOT templates, rather they are just code snippets that get included into templates.
-In this way, you can treat the code inside includes as if it was native to the parent template.&lt;/p&gt;
-
-&lt;p&gt;Any valid template code may be used in includes.&lt;/p&gt;
-
-&lt;h2&gt;Using Liquid for Templating&lt;/h2&gt;
-
-&lt;p&gt;Templating is perhaps the most confusing and frustrating part of Jekyll.
-This is mainly due to the fact that Jekyll templates must use the Liquid Templating Language.&lt;/p&gt;
-
-&lt;h3&gt;What is Liquid?&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/Shopify/liquid&quot;&gt;Liquid&lt;/a&gt; is a secure templating language developed by &lt;a href=&quot;http://shopify.com&quot;&gt;Shopify&lt;/a&gt;.
-Liquid is designed for end-users to be able to execute logic within template files
-without imposing any security risk on the hosting server.&lt;/p&gt;
-
-&lt;p&gt;Jekyll uses Liquid to generate the post content within the final page layout structure and as the primary interface for working with
-your site and post/page data.&lt;/p&gt;
-
-&lt;h3&gt;Why Do We Have to Use Liquid?&lt;/h3&gt;
-
-&lt;p&gt;GitHub uses Jekyll to power &lt;a href=&quot;http://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;.
-GitHub cannot afford to run arbitrary code on their servers so they lock developers down via Liquid.&lt;/p&gt;
-
-&lt;h3&gt;Liquid is Not Programmer-Friendly.&lt;/h3&gt;
-
-&lt;p&gt;The short story is liquid is not real code and its not intended to execute real code.
-The point being you can&#39;t do jackshit in liquid that hasn&#39;t been allowed explicitly by the implementation.
-What&#39;s more you can only access data-structures that have been explicitly passed to the template.&lt;/p&gt;
-
-&lt;p&gt;In Jekyll&#39;s case it is not possible to alter what is passed to Liquid without hacking the gem or running custom plugins.
-Both of which cannot be supported by GitHub Pages.&lt;/p&gt;
-
-&lt;p&gt;As a programmer - this is very frustrating.&lt;/p&gt;
-
-&lt;p&gt;But rather than look a gift horse in the mouth we are going to
-suck it up and view it as an opportunity to work around limitations and adopt client-side solutions when possible.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Aside&lt;/strong&gt; &lt;br/&gt;
-My personal stance is to not invest time trying to hack liquid. It&#39;s really unnecessary
-&lt;em&gt;from a programmer&#39;s&lt;/em&gt; perspective. That is to say if you have the ability to run custom plugins (i.e. run arbitrary ruby code)
-you are better off sticking with ruby. Toward that end I&#39;ve built &lt;a href=&quot;http://github.com/plusjade/mustache-with-jekyll&quot;&gt;Mustache-with-Jekyll&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2&gt;Static Assets&lt;/h2&gt;
-
-&lt;p&gt;Static assets are any file in the root or non-underscored subfolders that are not pages.
-That is they have no valid YAML Front Matter and are thus not treated as Jekyll Pages.&lt;/p&gt;
-
-&lt;p&gt;Static assets should be used for images, css, and javascript files.&lt;/p&gt;
-
-&lt;h2&gt;How Jekyll Parses Files&lt;/h2&gt;
-
-&lt;p&gt;Remember Jekyll is a processing engine. There are two main types of parsing in Jekyll.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Content parsing.&lt;/strong&gt; &lt;br/&gt;
-  This is done with textile or markdown.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Template parsing.&lt;/strong&gt; &lt;br/&gt;
-This is done with the liquid templating language.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;And thus there are two main types of file formats needed for this parsing.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Post and Page files.&lt;/strong&gt;&lt;br/&gt;
-All content in Jekyll is either a post or a page so valid posts and pages are parsed with markdown or textile.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Template files.&lt;/strong&gt;  &lt;br/&gt;
-  These files go in &lt;code&gt;_layouts&lt;/code&gt; folder and contain your blogs &lt;strong&gt;templates&lt;/strong&gt;. They should be made in HTML with the help of Liquid syntax.
-  Since include files are simply injected into templates they are essentially parsed as if they were native to the template.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;&lt;strong&gt;Arbitrary files and folders.&lt;/strong&gt; &lt;br/&gt;
-Files that &lt;em&gt;are not&lt;/em&gt; valid pages are treated as static content and pass through
-Jekyll untouched and reside on your blog in the exact structure and format they originally existed in.&lt;/p&gt;
-
-&lt;h3&gt;Formatting Files for Parsing.&lt;/h3&gt;
-
-&lt;p&gt;We&#39;ve outlined the need for valid formatting using &lt;strong&gt;YAML Front Matter&lt;/strong&gt;.
-Templates, posts, and pages all need to provide valid YAML Front Matter even if the Matter is empty.
-This is the only way Jekyll knows you want the file processed.&lt;/p&gt;
-
-&lt;p&gt;YAML Front Matter must be prepended to the top of template/post/page files:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;---
-layout: post
-category : pages
-tags : [how-to, jekyll]
----
-
-... contents ...
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Three hyphens on a new line start the Front-Matter block and three hyphens on a new line end the block.
-The data inside the block must be valid YAML.&lt;/p&gt;
-
-&lt;p&gt;Configuration parameters for YAML Front-Matter is outlined here:
-&lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter&quot;&gt;A comprehensive explanation of YAML Front Matter&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4&gt;Defining Layouts for Posts and Templates Parsing.&lt;/h4&gt;
-
-&lt;p&gt;The &lt;code&gt;layout&lt;/code&gt; parameter in the YAML Front Matter defines the template file for which the given post or template should be injected into.
-If a template file specifies its own layout, it is effectively being used as a &lt;code&gt;sub-template.&lt;/code&gt;
-That is to say loading a post file into a template file that refers to another template file with work in the way you&#39;d expect; as a nested sub-template.&lt;/p&gt;
-
-&lt;h2&gt;How Jekyll Generates the Final Static Files.&lt;/h2&gt;
-
-&lt;p&gt;Ultimately, Jekyll&#39;s job is to generate a static representation of your website.
-The following is an outline of how that&#39;s done:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jekyll collects data.&lt;/strong&gt; &lt;br/&gt;
-Jekyll scans the posts directory and collects all posts files as post objects. It then scans the layout assets and collects those and finally scans other directories in search of pages.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jekyll computes data.&lt;/strong&gt; &lt;br/&gt;
-Jekyll takes these objects, computes metadata (permalinks, tags, categories, titles, dates) from them and constructs one
-big &lt;code&gt;site&lt;/code&gt; object that holds all the posts, pages, layouts, and respective metadata.
-At this stage your site is one big computed ruby object.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jekyll liquifies posts and templates.&lt;/strong&gt;&lt;br/&gt;
-Next jekyll loops through each post file and converts (through markdown or textile) and &lt;strong&gt;liquifies&lt;/strong&gt; the post inside of its respective layout(s).
-Once the post is parsed and liquified inside the the proper layout structure, the layout itself is &quot;liquified&quot;. &lt;br/&gt;
- &lt;strong&gt;Liquification&lt;/strong&gt; is defined as follows: Jekyll initiates a Liquid template, and passes a simpler hash representation of the ruby site object as well as a simpler
-hash representation of the ruby post object. These simplified data structures are what you have access to in the templates.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jekyll generates output.&lt;/strong&gt; &lt;br/&gt;
- Finally the liquid templates are &quot;rendered&quot;, thereby processing any liquid syntax provided in the templates
- and saving the final, static representation of the file.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;p&gt;&lt;strong&gt;Notes.&lt;/strong&gt;&lt;br/&gt;
-Because Jekyll computes the entire site in one fell swoop, each template is given access to
-a global &lt;code&gt;site&lt;/code&gt; hash that contains useful data. It is this data that you&#39;ll iterate through and format
-using the Liquid tags and filters in order to render it onto a given page.&lt;/p&gt;
-
-&lt;p&gt;Remember, in Jekyll you are an end-user. Your API has only two components:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;The manner in which you setup your directory.&lt;/li&gt;
-&lt;li&gt;The liquid syntax and variables passed into the liquid templates.&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;p&gt;All the data objects available to you in the templates via Liquid are outlined in the &lt;strong&gt;API Section&lt;/strong&gt; of Jekyll-Bootstrap.
-You can also read the original documentation here: &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Template-Data&quot;&gt;https://github.com/mojombo/jekyll/wiki/Template-Data&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;I hope this paints a clearer picture of what Jekyll is doing and why it works the way it does.
-As noted, our main programming constraint is the fact that our API is limited to what is accessible via Liquid and Liquid only.&lt;/p&gt;
-
-&lt;p&gt;Jekyll-bootstrap is intended to provide helper methods and strategies aimed at making it more intuitive and easier to work with Jekyll =)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Thank you&lt;/strong&gt; for reading this far.&lt;/p&gt;
-
-&lt;h2&gt;Next Steps&lt;/h2&gt;
-
-&lt;p&gt;Please take a look at &lt;a href=&quot;&quot;&gt;&lt;/a&gt;
-or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you&#39;d like.&lt;/p&gt;
-</description>
-                <link>http://yangjl.me/cn/lessons/2011/12/29/jekyll-introduction</link>
-                <guid>http://yangjl.me/cn/lessons/2011/12/29/jekyll-introduction</guid>
-                <pubDate>2011-12-29T00:00:00-06:00</pubDate>
         </item>
 
         <item>
@@ -570,7 +147,7 @@ or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you&#39;d like.
 
 &lt;h4&gt;&lt;i class=&quot;icon-folder-open&quot;&gt;&lt;/i&gt;一些旅行的相片：&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/wfcl48O.ipg&quot; alt=&quot;alt text&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/wfcl48O.jpg&quot; alt=&quot;alt text&quot; /&gt;
                                 晒太阳的大脚&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/DLNk6QA.jpg&quot; alt=&quot;alt text&quot; /&gt;
@@ -589,46 +166,49 @@ or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you&#39;d like.
 
         <item>
                 <title>高速惊魂未定</title>
-                <description>&lt;p&gt;心有余悸啊，心有余悸。&lt;/p&gt;
+                <description>&lt;p&gt;心有余悸啊，心有余悸。&lt;br/&gt;
+今天去了趟省城边的那个遥远的村串亲戚。&lt;br/&gt;
+其实也不遥远。半个小时的车程。&lt;br/&gt;
+去的时候做了蛮多功课，认认真真的查地图，打印。结果，还是低估自己的路痴指数。&lt;br/&gt;
+回来的时候本以为跟着Yan的车，一路狂奔就回来了。结果没想到啊，没想到。我的小命差点断送在这条并不漫长的乡间小高速公路上。&lt;/p&gt;
 
-&lt;p&gt;今天去了趟省城边的那个遥远的村串亲戚。&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;其实也不遥远。半个小时的车程。&lt;/p&gt;
+&lt;p&gt;开始还好。一路跟着。&lt;br/&gt;
+要转高速I35的时候，一辆车夹在了我们中间。Yan换Lane我没看见，打左转灯我也没看见。转弯我倒是华丽丽的看见了。但是挥一挥手，只能眼巴巴的越行越远。&lt;br/&gt;
+我那个恨哪。我把车趴到高速的马路牙子上。欲哭无泪了我。就TM几十米。越过去就是康庄大道。当时我纠结的恨不得逆行，拐回去。&lt;br/&gt;
+现在想想，我要是真那么做了，明天新闻就是Iowa连环撞车案了。&lt;br/&gt;
+定了定情绪。我闷头往前开吧。下一个出口拐回来就好。&lt;br/&gt;
+这下一个出口可不要紧。一猛子十几mile下去了。俩词，一个是黑暗，一个是迷惘。&lt;br/&gt;
+PS：我从来没在高速上开过没有目的地的车，而且一个人，而且晚上，而且还下雨。诚实点，偶老兄只开过两次高速呢~ 这第三次就迷路了。&lt;/p&gt;
 
-&lt;p&gt;去的时候做了蛮多功课，认认真真的查地图，打印。结果，还是低估自己的路痴指数。&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;回来的时候本以为跟着Yan的车，一路狂奔就回来了。结果没想到啊，没想到。我的小命差点断送在这条并不漫长的乡间小高速公路上。&lt;/p&gt;
+&lt;p&gt;当时很不清醒，不知道怎么开了。并线也没看后镜。结果一辆恶凶凶的18轮呼啸而来，与我擦肩而过，只把我逼到了隔离带，差点没开进沟里。我可以想象18轮司机的手势。  但是当时顾不了那么多了。小命要紧。&lt;br/&gt;
+不行了，赶紧找个人家问问路吧。&lt;br/&gt;
+前面有灯。给了一线光明。&lt;br/&gt;
+出口呢，出口呢。&lt;br/&gt;
+看见了，在我身后。我靠。&lt;br/&gt;
+接着往前。路啊路，这如同Pat实验室毕业时间一样漫长的路~&lt;br/&gt;
+我滴个神唉。不会开到加拿大吧。我带护照了吗我~&lt;br/&gt;
+左拐，下高速。&lt;br/&gt;
+我滴个二郎神唉。这是虾米地方。黑糊糊荒草丛生的，不会有劫匪吧。太冲动了，怎么见出口就下呀。赶紧找个小路掉头。另一个方向重回高速。&lt;br/&gt;
+还是冲那个有灯的地方。我睁大眼睛找出口。&lt;br/&gt;
+出高速后终于找到人家了。是家加油站。&lt;br/&gt;
+我说哥哥姐姐，叔叔阿姨，我是一把鼻涕一把泪，俺住在Ames，可却迷失在这前不着村，后不着店的鬼地方，这可咋整啊。&lt;br/&gt;
+有个大叔很客气，My friend你别着急，听哥跟你慢慢说。结果连比带画的给我整了张地图。本来我是想问，哥想买个GPS，哪有卖的。结果，为了在美国民工面前争口气。我说哥懂了。  不就是先拐个大圈，然后上35嘛。我说小case,Thanks。然后轻轻的我扬长而去，不留下一片云彩~&lt;/p&gt;
 
-&lt;p&gt;开始还好。一路跟着。&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;要转高速I35的时候，一辆车夹在了我们中间。Yan换Lane我没看见，打左转灯我也没看见。转弯我倒是华丽丽的看见了。但是挥一挥手，只能眼巴巴的越行越远。
-我那个恨哪。我把车趴到高速的马路牙子上。欲哭无泪了我。就TM几十米。越过去就是康庄大道。当时我纠结的恨不得逆行，拐回去。
-现在想想，我要是真那么做了，明天新闻就是Iowa连环撞车案了。
-定了定情绪。我闷头往前开吧。下一个出口拐回来就好。
-这下一个出口可不要紧。一猛子十几mile下去了。俩词，一个是黑暗，一个是迷惘。
-PS：我从来没在高速上开过没有目的地的车，而且一个人，而且晚上，而且还下雨。诚实点，偶老兄只开过两次高速呢~ 这第三次就迷路了。
-当时很不清醒，不知道怎么开了。并线也没看后镜。结果一辆恶凶凶的18轮呼啸而来，与我擦肩而过，只把我逼到了隔离带，差点没开进沟里。我可以想象18轮司机的手势。但是当时顾不了那么多了。小命要紧。
-不行了，赶紧找个人家问问路吧。
-前面有灯。给了一线光明。
-出口呢，出口呢。
-看见了，在我身后。我靠。
-接着往前。路啊路，这如同Pat实验室毕业时间一样漫长的路~
-我滴个神唉。不会开到加拿大吧。我带护照了吗我~
-左拐，下高速。
-我滴个二郎神唉。这是虾米地方。黑糊糊荒草丛生的，不会有劫匪吧。太冲动了，怎么见出口就下呀。赶紧找个小路掉头。另一个方向重回高速。
-还是冲那个有灯的地方。我睁大眼睛找出口。
-出高速后终于找到人家了。是家加油站。
-我说哥哥姐姐，叔叔阿姨，我是一把鼻涕一把泪，俺住在Ames，可却迷失在这前不着村，后不着店的鬼地方，这可咋整啊。
-有个大叔很客气，My friend你别着急，听哥跟你慢慢说。结果连比带画的给我整了张地图。本来我是想问，哥想买个GPS，哪有卖的。结果，为了在美国民工面前争口气。我说哥懂了。不就是先拐个大圈，然后上35嘛。我说小case,Thanks。然后轻轻的我扬长而去，不留下一片云彩~
-等等，ATM。这下爷不怕了，我看谁TM还敢抢劫我。谁敢抢劫，我给谁100块钱。赶紧在ATM取了一百块钱。还要手续费，真是趁火打劫~
-事实证明还是太冲动。为什么就不肯承认自己是路痴的现实呢。当那个360度的大转弯在我隔壁的那条Lane上滑向远方的时候，我只能发呆和轻叹。上帝啊，为什么您老人家老是戏弄我，您饶了我，我初一十五的给您上香还不成吗。我那个恨啊:-(
-开啊开，开啊开。转回来。又开啊开，开啊开。
-爷这会谁的话也不听了，爷就想买个GPS。
-有灯的地方。那是卖火柴小姑娘——他哥的港湾。
-过了一个个汽车旅馆和洗手间。终于找到家卖电器的港湾。
-赶紧花了100块钱买个GPS。我那个亲切啊我。我想输入北京输入北京，我想输入台北我输入台北。别得意了，老实的输入Ames回家吧。
-当华丽丽的指向箭头呈现出来的时候。我差点没激动地热泪盈眶。抚摸着强大的GPS，我轻轻地说，哥再也不抛弃你了。真的~
-然后，开着冷气和低缓的乡村音乐。
+&lt;p&gt;等等，ATM。这下爷不怕了，我看谁TM还敢抢劫我。谁敢抢劫，我给谁100块钱。赶紧在ATM取了一百块钱。还要手续费，真是趁火打劫~&lt;br/&gt;
+事实证明还是太冲动。为什么就不肯承认自己是路痴的现实呢。当那个360度的大转弯在我隔壁的那条Lane上滑向远方的时候，我只能发呆和轻叹。上帝啊，为什么您老人家老是戏弄我，您饶了我，我初一十五的给您上香还不成吗。我那个恨啊:-(&lt;br/&gt;
+开啊开，开啊开。转回来。又开啊开，开啊开。&lt;br/&gt;
+爷这会谁的话也不听了，爷就想买个GPS。&lt;br/&gt;
+有灯的地方。那是卖火柴小姑娘——他哥的港湾。&lt;br/&gt;
+过了一个个汽车旅馆和洗手间。终于找到家卖电器的港湾。&lt;br/&gt;
+赶紧花了100块钱买个GPS。我那个亲切啊我。我想输入北京输入北京，我想输入台北我输入台北。别得意了，老实的输入Ames回家吧。&lt;br/&gt;
+当华丽丽的指向箭头呈现出来的时候。我差点没激动地热泪盈眶。抚摸着强大的GPS，我轻轻地说，哥再也不抛弃你了。真的~&lt;br/&gt;
+然后，开着冷气和低缓的乡村音乐。&lt;br/&gt;
 一路向北。&lt;/p&gt;
 </description>
                 <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/08/16/high-way-danger</link>
@@ -638,24 +218,124 @@ PS：我从来没在高速上开过没有目的地的车，而且一个人，而
 
         <item>
                 <title>诗性大发啊~</title>
-                <description>&lt;p&gt;俺是种田的，
-扛着锄头，一觉能睡到天黑，
-懒得说自己很懒，
+                <description>&lt;p&gt;俺是种田的，     &lt;br/&gt;
+扛着锄头，一觉能睡到天黑， &lt;br/&gt;
+懒得说自己很懒， &lt;br/&gt;
 倘若能笑笑，日子也是不难打发的~&lt;/p&gt;
 
-&lt;p&gt;俺是忧郁的，
-庄稼人的惆怅，
-是低眉信手，断了线的瓜藤，
+&lt;p&gt;俺是忧郁的， &lt;br/&gt;
+庄稼人的惆怅， &lt;br/&gt;
+是低眉信手，断了线的瓜藤， &lt;br/&gt;
 和路边迷醉了的看花人的痴意~&lt;/p&gt;
 
-&lt;p&gt;泯口酒，抽袋烟，
-就当自己是个有钱人。
-倘若能多打几筐玉米，
+&lt;p&gt;泯口酒，抽袋烟，&lt;br/&gt;
+就当自己是个有钱人。&lt;br/&gt;
+倘若能多打几筐玉米，&lt;br/&gt;
 明年就养头猪。&lt;/p&gt;
 </description>
                 <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/11/country-poetry</link>
                 <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/11/country-poetry</guid>
                 <pubDate>2009-08-11T00:00:00-05:00</pubDate>
+        </item>
+
+        <item>
+                <title>最后的祭奠</title>
+                <description>&lt;p&gt;如果还有什么可以祭奠青春的话，&lt;br/&gt;
+我会割腕，&lt;br/&gt;
+取一瓢血。&lt;br/&gt;
+然后，&lt;br/&gt;
+望着汩汩的手腕说，&lt;br/&gt;
+看啊，&lt;br/&gt;
+这年青的心脏，多么的带劲~&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;如果还有什么可以标志永恒的话，&lt;br/&gt;
+我会刻一颗刺青，&lt;br/&gt;
+“忍”吗，还是“心”？&lt;br/&gt;
+都不会了，&lt;br/&gt;
+我会刻一个“唉”，&lt;br/&gt;
+去他妈的永远~&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;如果还有什么可以承载梦想的话，&lt;br/&gt;
+我会像隔壁的小黄狗，&lt;br/&gt;
+梦想就是它嘴里叼着的骨头，&lt;br/&gt;
+哈喇子都流在上面了，&lt;br/&gt;
+没有什么比那更值得捍卫，&lt;br/&gt;
+谁抢，我咬谁~&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;如果，如果前面还有路， &lt;br/&gt;
+我会鄙视那路边的红罂粟。&lt;/p&gt;
+</description>
+                <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/10/last-memorial</link>
+                <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/10/last-memorial</guid>
+                <pubDate>2009-08-10T00:00:00-05:00</pubDate>
+        </item>
+
+        <item>
+                <title>中国科学发展30年纪祭（译自Cell）</title>
+                <description>&lt;p&gt;前编：lab里堆砌着一大推Cell Journal，免费寄过来的。开启了一本近期的，被标题吸引了，因为但凡这些顶级杂志写到中国，还是有点意思的。这是一篇leading Edge, Analysis文章，类似财经杂志的编者评论。
+文章引文信息是：
+&lt;code&gt;
+Xin Hao, Science in China: 30 Years on. Cell 134, August 8, 2008: 375-377.
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h4&gt;&lt;i class=&quot;icon-folder-open&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://www.dropbox.com/s/uqlsnm7q1lz02a9/1-s2.0-S0092867408009550-main.pdf&quot;&gt;原文在这&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;原来是8月8号的，难怪呢：）文章综述了中国改革开放以来的留学政策，最近的科学发展，科研投入的比例，等等. 很多牛人的名字郝然在列，如最近大热的饶毅、施一公、王晓东、邓兴旺。于是，闲着没事，夹叙夹译（我是指翻译哦）一下。&lt;/p&gt;
+
+&lt;p&gt;在8月8日开幕北京夏季奥运会上，中国志在在金牌总数上超过美国。尽管中国的奥运实力与经济发展似乎齐头并进，但是，中国生命科学的发展仍需努力。文化大革命（1966-1976）已经结束超过30年了，当时，受过教育的人被下放到农村进行“贫下中农再教育”。自从那段黑暗的时期过后，中国在很多领域大跨步前进，包括科学和教育。例如，中国的自然科学基金（NSFC）——中国基础研究的主要资金来源——自1986年设立以来平均每年以22%的比率增长，今年这个数字达到了7.86亿美元。另外，有迹象表明中国人才外流（主要去美国）的现象有可能得到逆转。确实，许多移居海外的科学家如神经科学家饶毅（西北大学）和结构生物学家施一公（普林斯顿大学）放弃了他们在美国的终身教授的职务，分别回到北大和清华领导生命科学院的发展。去年，似乎是为了兑现对于医学和生命科学的承诺，中国政府任命无党派人士，医学家陈竺担任卫生部长。“我告诉我在美国的学生，是时候回来了”，复旦大学高级神经科学家杨雄里说。然而，包括近期刚回来的科学家们反映，要想在国际上具有竞争力，中国仍需要克服许多挑战，如博士后的短缺、科研经费的分配不公以及科研成果的评估机制缺位。&lt;/p&gt;
+
+&lt;h2&gt;文化大革命后的复苏&lt;/h2&gt;
+
+&lt;p&gt;1980，康乃尔大学的吴瑞（Ray Wu）留美31年首次回国探亲，他的亲戚和老同学希望能帮他们的孩子去海外留学。文化大革命基本上摧毁了中国的一切高等教育和科学研究。尽管1977年恢复了高考，但是更高等的教育几乎只能去国外。是的，经历了近乎30年的孤立，中国对外部世界知之甚少，同时，美国大学对于中国学生的水平也毫无了解。所以，吴瑞说服当时的教育部长建立了“中-美生化考试与申请（CUSBEA）”项目。这个项目主要测试中国申请者的生物化学、分子生物学和英语水平。从1981—1989，总共425名申请者通过考试进入美国大学攻读博士学位。王晓东，德州西南医学院教授，北京生命科学研究院（NIBS）主任，是第一批被选为美国科学院院士的CUSBEA成员（也是当年最年青的科学院院士，嗯，很牛）。CUSBEA的成功，开启了中国学生去美国留学的大门，包括后来的饶毅和施一公。&lt;/p&gt;
+
+&lt;h2&gt;吸引海外学者归国&lt;/h2&gt;
+
+&lt;p&gt;根据最近的数据统计，自1985—2005以来，共有约12,000名中国求学者在美国获得生物学、医学、农学以及其他生命科学相关学科的&lt;a href=&quot;http://www.nsf.gov/statistics/seind08&quot;&gt;博士学位&lt;/a&gt;。中国生物学家协会（以前叫吴瑞协会），主要成员是生物医学的PI（principal investigator，或称大老板），估计在美国生命科学领域总共有2500-3000名华裔PI。过去10年，中国政府实施了很多政策吸引这些海外学者回国。&lt;/p&gt;
+
+&lt;p&gt;去年，国家留学基金委（CSC）设立了一个新项目。这个项目5年耗资13亿刀，每年派遣5000名学生去国外高水平大学留学。其中一部分攻读博士，另一部分花1-2年时间与国外实验室联合培养。生命科学和生物医学是CSC优先资助的学科。由于国家为这些学生提供经济资助，学成以后，这些学生必须回国服务至少两年。&lt;/p&gt;
+
+&lt;p&gt;然而，一些科学家担心，这个项目会进一步剥夺国内教授的有天赋的研究生。“对于这个项目我很疑惑。优秀的本科生可以自己申请海外留学，根本不需要政府的帮助，”饶毅说。“这些资金用在提高中国研究生的补助上效果可能会更好一些，他们的补助实在是太低了。”去年，饶和施刚一回国，就提议并征集了50个教授的签名，要求政府提高本国研究生的补助，他们的平均工资不足50刀/月（在美国1500刀，差的好多啊），低于城市最低工资。国家总理温家宝同意了这个建议，政府部门正在讨论这个计划的实施细节。&lt;/p&gt;
+
+&lt;p&gt;有天赋的研究生的短缺，伴随着更尖锐的博士后的短缺。“对于回国的科学家最主要的问题是博士后的短缺，”尹芝南说，他是新近从耶鲁大学聘任的南开大学生命科学学院的院长。中国博士后的平均工资是300刀/月，这个数字比美国低很多（3000刀吧，在美国工资收入阶层中也属于低的，但比国内高很多）。杨雄里也承认，“我教出来的PhD都去了国外做博士后。”为了解决这个问题“中国必须显著提高博士后的工资。”尹强调。&lt;/p&gt;
+
+&lt;h2&gt;接下来谈谈钱的问题&lt;/h2&gt;
+
+&lt;p&gt;最主要的，科学家们说，中国分配科研经费和科研评估的机制需要改革。“钱不再是主要问题，”饶说，“问题是分钱的机制。”施也同意，称现在的系统“抑制创新”。&lt;/p&gt;
+
+&lt;p&gt;改革开放的前二十年，中国主要侧重于应用科学的投入。之后，基础科学的投入有所增加，“尤其是近5年”，复旦的杨说。1999-2004，杨负责一个脑科学的研究项目（973项目，科技部的项目）。尽管有这些显著的增加，基础研究的投入比例仍然偏低（总体R&amp;amp;D的5%），日本的这个数字是15%，美国是19%（science and technology indicators 2008）。对比而言，中国在体育上的投入更高一些。体育总局，从彩票销售中赚钱。2007，销售彩票51亿刀， 约17%用于支持体育发展。&lt;/p&gt;
+
+&lt;p&gt;主要的问题，“科研经费分配的不平衡，”杨说。与国家需要相关的大项目拿到的钱可以和美国相比，甚至超过美国。例如，973项目通常分两步到位，第一个2年，第二个3年。今年，“蛋白质科学”下面的8个项目拿到90万刀-190万刀的经费（2008-2010）。“蛋白质科学”是两个巨项目之一，另一个是“可再生和发展生物学”，17个子项目在项目的前两年平均可以拿到174万刀。相对而言，大多数的小项目，主要由自然科学基金资助，平均每年只能拿到1.3万刀（连续资助3年）。&lt;/p&gt;
+
+&lt;p&gt;饶指出，尽管国家需要是科学研究的主要决定因素，“但这不应该成为决定所有科研项目的铁定规矩。”他说，没有人能够预测新出现的科研方向。对973项目的批评还包括，对于科研提议的浏览和评审，只有一小拨专家把关。这导致缺乏透明度和利益冲突。另一个在中国科学家博客空间里广泛讨论的问题是，科学引用因子（SCI）的过分看重和过度依赖杂志影响因子来决定科学家与其研究水平。这些机制尽管刺激中国科学家在国际期刊上大发文章，对SCI数据库的贡献率由1998的2.5%上升到2006的8.4%，仅排在美国之后。但问题是，垃圾文章泛滥。“发文章的压力使得中国研究者选择相对容易的课题，以求快点发文章。”杨说。&lt;/p&gt;
+
+&lt;p&gt;从改革开放学来的划经济特区的经验，2001年6个在新加坡工作的科学家建议科技部和北京市政府建立一个生命科学特区。结果就是北京生命科学研究院（NIBS）在2003的诞生。这个研究所的独特之处是资助个人，而不是资助项目。陈竺聘任王晓东担任NIBS的co-主任，另一个主任是邓兴旺（耶鲁大学的更大的大牛，他俩都是兼职的，主要的实验室还是开在美国。NIBS另外的聘任的二十个大老板（PI），每人都签一个五年合同，每年有200万人民币的经费，使他们集中科研不用到处忙于申请经费。“研究所在过去5年做的非常好，远远超过了我的预期”王说，确实，PI们发了100多篇高水平的文章，其中CELL, NATURE和SCIENCE上各一篇（这个确实很牛）。“这个成就是我们有目共睹的。”，施评论说，“NIBS的成功是过去几年的亮点。”&lt;/p&gt;
+
+&lt;p&gt;吴瑞在国家复苏的时候构想了CUSBEA项目去帮助中国科学的发展。吴先生，今年二月去世，享龄79岁，在他寄语CUSBEA25周年庆的时候乐观的表示：“再过25年，中国科学家将是世界科学进步的主要贡献者。”伴随着奥运圣火在国家体育场上燃烧，中国的科学家——尤其是在国内工作的——如果还清醒的话，肯定会意识到要实现吴先生的梦想，仍然有很长的路要走。&lt;/p&gt;
+</description>
+                <link>http://yangjl.me/cn/%E7%A7%91%E7%A0%94%E4%B9%8B%E9%81%93/2008/10/12/science-in-China</link>
+                <guid>http://yangjl.me/cn/%E7%A7%91%E7%A0%94%E4%B9%8B%E9%81%93/2008/10/12/science-in-China</guid>
+                <pubDate>2008-10-12T00:00:00-05:00</pubDate>
+        </item>
+
+        <item>
+                <title>命运自我缔造（Self Made Person）</title>
+                <description>&lt;p&gt;榜样的力量真是无穷的。昨天听了老俞在宁夏大学的演讲，今天立志发奋图强，一天背了接近四个新的list，要不是时间太晚了，还有继续背下去的冲动，偶要证明偶也能成为牛x的自我缔造者。。。当然不能再背了，这样下去的后果不是记住了更多的单词，而会导致一起因背单词而引发的命案，背单词背死多郁闷，还是留着青山细水长流吧。&lt;/p&gt;
+
+&lt;p&gt;已经进展到22了，基本上看到了胜利的曙光。今天尝试了记忆的极限状态，估计今后一段时间都超越不了今天创造的背词高峰，也让所有的快速记忆方法见鬼去吧，撑死了也就是这个量，以后即使背的少点也不必看着计划表上那些没有打勾的list而自卑了。&lt;/p&gt;
+
+&lt;p&gt;保守估计今天背了11个小时，因为从早上9点到到刚刚的11点，全在忙活这点破事，中午的时候看了一篇economist的文章，关于中国互连网的审查制度的，挺热闹，就是看个热闹而已，懒得思考这些破事了。&lt;/p&gt;
+
+&lt;p&gt;Self made person!——命运自我缔造！缔造生活的过程尽管艰辛，但是也着实令人沉醉，有点喜欢上了这种精神错乱的生活状态，底线是只要不会变成白痴。&lt;/p&gt;
+</description>
+                <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2006/05/03/self-made-person</link>
+                <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2006/05/03/self-made-person</guid>
+                <pubDate>2006-05-03T00:00:00-05:00</pubDate>
         </item>
 
 
