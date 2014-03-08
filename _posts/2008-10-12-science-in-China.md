@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国科学发展30年纪祭（译自Cell）"
+title: "中国科学发展30年祭（译自Cell）"
 description: "Science in China: 30 Year On 中国科学发展30年纪祭"
 category: 科研之道
 tags: [翻译]
@@ -13,7 +13,7 @@ tags: [翻译]
 ```
 Xin Hao, Science in China: 30 Years on. Cell 134, August 8, 2008: 375-377. 
 ```
-#### <i class="icon-folder-open"></i>[原文在这](https://www.dropbox.com/s/uqlsnm7q1lz02a9/1-s2.0-S0092867408009550-main.pdf)
+#### <i class="icon-folder-open"></i>[全文pdf](https://www.dropbox.com/s/uqlsnm7q1lz02a9/1-s2.0-S0092867408009550-main.pdf)
 
 原来是8月8号的，难怪呢：）文章综述了中国改革开放以来的留学政策，最近的科学发展，科研投入的比例，等等. 很多牛人的名字郝然在列，如最近大热的饶毅、施一公、王晓东、邓兴旺。于是，闲着没事，夹叙夹译（我是指翻译哦）一下。
  
