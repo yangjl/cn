@@ -13,6 +13,10 @@ tags: [JC, NGS, transcripome]
 
 ![alt text](http://i.imgur.com/eRwvfhO.jpg)
 
+这个研究，应该是受[果蝇研究](http://www.ncbi.nlm.nih.gov/pubmed/21150997)的启发。他们计算了转录组年龄指数（TAI）和转录组分化指数（TDI），具体细节参见文章本身。这些指数在拟南芥的七个胚发育阶段，呈现一种完美的沙漏曲线（如下图）。很简单，但是多漂亮的一个研究啊。
+
+![alt text](http://i.imgur.com/BqI4EiL.png)
+
 所以，大数据研究的着眼点是什么？两点：
 1. 寻求经典的遗传学或生物学问题。
 2. 向公开数据挖掘证据，证明或者证伪。
