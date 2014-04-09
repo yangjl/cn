@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国科学发展30年祭（译自Cell）"
+title: "中国科学发展30年记（译自Cell）"
 description: "Science in China: 30 Year On 中国科学发展30年纪祭"
 category: 科研之道
 tags: [翻译]

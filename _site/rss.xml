@@ -5,8 +5,8 @@
         <description>Jinliang Yang - Jinliang Yang</description>
         <link>http://yangjl.me/cn</link>
         <link>http://yangjl.me/cn</link>
-        <lastBuildDate>2014-03-07T20:47:06-06:00</lastBuildDate>
-        <pubDate>2014-03-07T20:47:06-06:00</pubDate>
+        <lastBuildDate>2014-03-30T17:26:57+08:00</lastBuildDate>
+        <pubDate>2014-03-30T17:26:57+08:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -102,7 +102,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;玉米的测序格局，也许正是传统玉米研究的分水岭，新的科研格局可能正在经历重新洗牌。可喜的是，中国的团队在这个领域，不但占有了一席之地。而且，可能是两席或多席。CAAS和CAU，包括华中农大，测起序来毫不手软。竞争合作，多有南北鼎足之势。当然也看到北大，山东农大，四川农大的崛起。当这样的团队数达到几十个的时候，玉米遗传学研究就真正到了中美G2的时代了。&lt;/p&gt;
+&lt;p&gt;玉米的测序格局，也许正是传统玉米研究的分水岭，新的科研格局可能正在经历重新洗牌。可喜的是，中国的团队在这个领域，不但占有了一席之地。而且，可能是两席或多席。CAAS和CAU，包括华中农大，测起序来毫不手软。竞争合作，多有南北鼎足之势。当然也看到北大，山东农大，四川农大的参与。当这样的团队数达到几十个的时候，玉米遗传学研究就真正到了中美G2的时代了。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/01JWlMz.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 
@@ -114,7 +114,7 @@
 </description>
                 <link>http://yangjl.me/cn/%E5%AD%A6%E6%9C%AF%E5%8D%9A/2014/03/07/NGS-maize</link>
                 <guid>http://yangjl.me/cn/%E5%AD%A6%E6%9C%AF%E5%8D%9A/2014/03/07/NGS-maize</guid>
-                <pubDate>2014-03-07T00:00:00-06:00</pubDate>
+                <pubDate>2014-03-07T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -132,7 +132,18 @@
 </description>
                 <link>http://yangjl.me/cn/%E6%96%87%E7%8C%AE%E4%BF%B1%E4%B9%90%E9%83%A8/2014/02/19/Journal-Club-1</link>
                 <guid>http://yangjl.me/cn/%E6%96%87%E7%8C%AE%E4%BF%B1%E4%B9%90%E9%83%A8/2014/02/19/Journal-Club-1</guid>
-                <pubDate>2014-02-19T00:00:00-06:00</pubDate>
+                <pubDate>2014-02-19T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>我的博客v2.0</title>
+                <description>&lt;p&gt;或许是窝在村里太久，很久没有写东西了。忘记了自己文艺青年的一面。好吧，已经文艺中年了。&lt;br/&gt;
+又或许是微x惹的祸（如微博微信），东转来，西转去，以至于很久没有自己的输出了，语文能力也随之下降明显。这些年的遗传学的训练，搞的遗传没学好，倒像是个半路出家的CS，喜欢上了折腾程序。在这准备毕业之际，老板不给力的情况下，自己总得搞点文字输出，算以总结自己这些年的所学所得吧。重拾博客，必然要换一个平台。在(谢老师)[]博客的启发下，决定整个‘高大上’的，像“hacker一样写博客“。久经折腾，终于把这个把这个小博客建立起来了。博客是建立在(github)[]上的，使用(Jekyll)[]搭建，字体和主页
+设计直接参照了谢老师[]的网站。博客分为中文和英文两个部分，用的是&lt;a href=&quot;&quot;&gt;bootstrap&lt;/a&gt;的模板，略经修改。中英两部分是相互独立。中文主要记录生活，英文则侧重于学术方面。希望今后有时间的时候，能够缓慢总结一下这些年的学习，感悟和生活。也记录自己刚出生的OO，以及她伟大的母亲大人。&lt;/p&gt;
+</description>
+                <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2014/02/10/new-blogger</link>
+                <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2014/02/10/new-blogger</guid>
+                <pubDate>2014-02-10T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -161,7 +172,7 @@
 </description>
                 <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2010/01/24/new-year-trip</link>
                 <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2010/01/24/new-year-trip</guid>
-                <pubDate>2010-01-24T00:00:00-06:00</pubDate>
+                <pubDate>2010-01-24T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -213,7 +224,7 @@ PS：我从来没在高速上开过没有目的地的车，而且一个人，而
 </description>
                 <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/08/16/high-way-danger</link>
                 <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/08/16/high-way-danger</guid>
-                <pubDate>2009-08-16T00:00:00-05:00</pubDate>
+                <pubDate>2009-08-16T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -235,7 +246,7 @@ PS：我从来没在高速上开过没有目的地的车，而且一个人，而
 </description>
                 <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/11/country-poetry</link>
                 <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/11/country-poetry</guid>
-                <pubDate>2009-08-11T00:00:00-05:00</pubDate>
+                <pubDate>2009-08-11T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -273,7 +284,7 @@ PS：我从来没在高速上开过没有目的地的车，而且一个人，而
 </description>
                 <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/10/last-memorial</link>
                 <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/10/last-memorial</guid>
-                <pubDate>2009-08-10T00:00:00-05:00</pubDate>
+                <pubDate>2009-08-10T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -327,7 +338,7 @@ PS：我从来没在高速上开过没有目的地的车，而且一个人，而
 </description>
                 <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/07/25/a-day-in-the-lab</link>
                 <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/07/25/a-day-in-the-lab</guid>
-                <pubDate>2009-07-25T00:00:00-05:00</pubDate>
+                <pubDate>2009-07-25T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -347,22 +358,22 @@ PS：我从来没在高速上开过没有目的地的车，而且一个人，而
 </description>
                 <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/07/21/my-dream</link>
                 <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/07/21/my-dream</guid>
-                <pubDate>2009-07-21T00:00:00-05:00</pubDate>
+                <pubDate>2009-07-21T00:00:00+08:00</pubDate>
         </item>
 
         <item>
                 <title>五年还是八年，这是个问题</title>
                 <description>&lt;p&gt;最近一直萦绕在心头的是一个沉重的老问题——是5年拿到PhD还是8年呢？废话，猪也知道，1年才好呢。但是，现实往往是不容人YY的，严肃的现实摆在那里，lab里刚走的一个GG用了8.5年。有人跟我说，这个事情不是别人帮你决定的，而是靠自己，意思就是，你自己想几年就是几年。这个我信，我如果想10年，这个还真是不难，混呗。但是，问题是，10年后我成了什么，还能去做什么，去做老妖？去做千年博后？所以痛定思痛，还是短点吧，5-6年吧，拼了。&lt;/p&gt;
 
-&lt;p&gt;老爸小时候常跟我说，玉不琢不成器，而且，大器当晚成。话对了一半，大器晚成肯定是相对与早成来说的，否则没有早成也就没有晚成。全世界PhD的琢磨时间的钟垂曲线的权重部分应该落在3—5年吧，为什么我却落在了一个5—8年的实验室里，郁闷。话说老板人是很Nice的，知识丰富，管理水平也高，但是对科学和自己手下学生成功毕业的定义也相对严格。3篇paper，放在任何一个lab也是很难的吧，而且似乎至少也得是5+的啊。老板不说5+，他把发paper的标准定义为，有一定的科学贡献。当然不是随便攒的那种&lt;del&gt;~（&gt;_&amp;lt;）&lt;/del&gt; 再话说，现在我当然可以踌躇满志，立志早发早毕业。但是时间长了，还有这份激情吗?答案肯定是否定的，没有人比我更了解自己的没长性。当初选的时候，难度我是知道的，但是仅仅把它当成一种鞭策，注意到这样出来的会很牛，但是没有想到另一方面，那就是，万一出不来呢？呜呼~&lt;/p&gt;
+&lt;p&gt;老爸小时候常跟我说，玉不琢不成器，而且，大器当晚成。话对了一半，大器晚成肯定是相对与早成来说的，否则没有早成也就没有晚成。全世界PhD的琢磨时间的钟垂曲线的权重部分应该落在3—5年吧，为什么我却落在了一个5—8年的实验室里，郁闷。话说老板人是很Nice的，知识丰富，管理水平也高，但是对科学和自己手下学生成功毕业的定义也相对严格。3篇paper，放在任何一个lab也是很难的吧，而且似乎至少也得是5+的啊。老板不说5+，他把发paper的标准定义为，有一定的科学贡献。当然不是随便攒的那种（&gt;_&amp;lt;） 再话说，现在我当然可以踌躇满志，立志早发早毕业。但是时间长了，还有这份激情吗?答案肯定是否定的，没有人比我更了解自己的没长性。当初选的时候，难度我是知道的，但是仅仅把它当成一种鞭策，注意到这样出来的会很牛，但是没有想到另一方面，那就是，万一出不来呢？呜呼~&lt;/p&gt;
 </description>
                 <link>http://yangjl.me/cn/%E5%8C%97%E7%BE%8E%E6%B5%81%E6%B0%B4%E8%B4%A6/2008/11/09/grad-years</link>
                 <guid>http://yangjl.me/cn/%E5%8C%97%E7%BE%8E%E6%B5%81%E6%B0%B4%E8%B4%A6/2008/11/09/grad-years</guid>
-                <pubDate>2008-11-09T00:00:00-06:00</pubDate>
+                <pubDate>2008-11-09T00:00:00+08:00</pubDate>
         </item>
 
         <item>
-                <title>中国科学发展30年祭（译自Cell）</title>
+                <title>中国科学发展30年记（译自Cell）</title>
                 <description>&lt;p&gt;前编：lab里堆砌着一大推Cell Journal，免费寄过来的。开启了一本近期的，被标题吸引了，因为但凡这些顶级杂志写到中国，还是有点意思的。这是一篇leading Edge, Analysis文章，类似财经杂志的编者评论。
 文章引文信息是：
 &lt;code&gt;
@@ -405,7 +416,7 @@ Xin Hao, Science in China: 30 Years on. Cell 134, August 8, 2008: 375-377.
 </description>
                 <link>http://yangjl.me/cn/%E7%A7%91%E7%A0%94%E4%B9%8B%E9%81%93/2008/10/12/science-in-China</link>
                 <guid>http://yangjl.me/cn/%E7%A7%91%E7%A0%94%E4%B9%8B%E9%81%93/2008/10/12/science-in-China</guid>
-                <pubDate>2008-10-12T00:00:00-05:00</pubDate>
+                <pubDate>2008-10-12T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -418,7 +429,7 @@ Xin Hao, Science in China: 30 Years on. Cell 134, August 8, 2008: 375-377.
 </description>
                 <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2006/05/14/pressure</link>
                 <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2006/05/14/pressure</guid>
-                <pubDate>2006-05-14T00:00:00-05:00</pubDate>
+                <pubDate>2006-05-14T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -445,7 +456,7 @@ There are pastures in those hills. Meadows too, as rich as any. And men and wome
 </description>
                 <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2006/05/10/tolerance</link>
                 <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2006/05/10/tolerance</guid>
-                <pubDate>2006-05-10T00:00:00-05:00</pubDate>
+                <pubDate>2006-05-10T00:00:00+08:00</pubDate>
         </item>
 
         <item>
@@ -460,7 +471,7 @@ There are pastures in those hills. Meadows too, as rich as any. And men and wome
 </description>
                 <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2006/05/03/self-made-person</link>
                 <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2006/05/03/self-made-person</guid>
-                <pubDate>2006-05-03T00:00:00-05:00</pubDate>
+                <pubDate>2006-05-03T00:00:00+08:00</pubDate>
         </item>
 
 
