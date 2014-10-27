@@ -2,7 +2,7 @@
 name: "Jinliang Yang"
 description: "My blog"
 
-url: "http://yangjl.me/cn"
+url: "http://yangjl.me"
 
 paginate: 10
 
@@ -27,7 +27,7 @@ author :
   name : Jinliang Yang
   email : yangjl0930@gmail.com
   github : username
-  twitter : username
+  twitter : JinliangYang
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
