@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Jinliang Yang</title>
- <link href="http://yangjl.me/cn/" rel="self"/>
- <link href="http://yangjl.me/cn"/>
- <updated>2014-12-16T10:31:26-08:00</updated>
- <id>http://yangjl.me/cn</id>
+ <link href="http://yangjl.com/cn/" rel="self"/>
+ <link href="http://yangjl.com/cn"/>
+ <updated>2015-01-13T00:16:27-08:00</updated>
+ <id>http://yangjl.com/cn</id>
  <author>
    <name>Jinliang Yang</name>
    <email>yangjl0930@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>大数据时代的玉米遗传组学</title>
-   <link href="http://yangjl.me/cn/%E5%AD%A6%E6%9C%AF%E5%8D%9A/2014/03/07/NGS-maize"/>
+   <link href="http://yangjl.com/cn/%E5%AD%A6%E6%9C%AF%E5%8D%9A/2014/03/07/NGS-maize"/>
    <updated>2014-03-07T00:00:00-08:00</updated>
-   <id>http://yangjl.me/cn/%E5%AD%A6%E6%9C%AF%E5%8D%9A/2014/03/07/NGS-maize</id>
+   <id>http://yangjl.com/cn/%E5%AD%A6%E6%9C%AF%E5%8D%9A/2014/03/07/NGS-maize</id>
    <content type="html">&lt;p&gt;不知不觉进入了大数据时代，连&lt;a href=&quot;http://www.nytimes.com/2013/04/14/education/edlife/universities-offer-courses-in-a-hot-new-field-data-science.html?pagewanted=all&amp;amp;_r=0&quot;&gt;纽约时报&lt;/a&gt;都说“数据分析师将是这个世纪最性感的职业”。IT界常引用的一句话说“单单过去两年产生的数据，就占到这个世界数据总产量的90%”，就此，你可以想象，这个数据爆炸的猛。&lt;/p&gt;
 
 &lt;p&gt;为了做个报告，稍微读了一下&lt;a href=&quot;http://www.ncbi.nlm.nih.gov/sra&quot;&gt;NCBI SRA&lt;/a&gt;的report。不看不知道，一看吓一跳，危机感立马爆棚。在过去几年，NGS技术单单在玉米基因组领域，就生产了13,000 Giga 碱基对的数据。玉米基因组大约2000 Mb，简单算的话，在B73物理图谱完成的短短五年时间里，基因组数据产量居然已经达到了6,000多倍的覆盖率。这还不包括各种藏着掖着没发布的数据。把视野扩展一下到整个测序领域，这么大的玉米数据，却只占到&lt;a href=&quot;http://www.ncbi.nlm.nih.gov/Traces/sra/?view=announcement&quot;&gt;SRA数据库&lt;/a&gt;整体数据小的可怜的0.1%不到。截止于2014二月底，&gt;2300 Tera的碱基对上传到了这个数据库。看下面的图，“&gt;90%的数据生产于这两年”的规律也完全适用于测序产业。&lt;/p&gt;
@@ -116,9 +116,9 @@
  
  <entry>
    <title>Deleterious Mutation Load</title>
-   <link href="http://yangjl.me/cn/jc/2014/02/19/Journal-Club-1"/>
+   <link href="http://yangjl.com/cn/jc/2014/02/19/Journal-Club-1"/>
    <updated>2014-02-19T00:00:00-08:00</updated>
-   <id>http://yangjl.me/cn/jc/2014/02/19/Journal-Club-1</id>
+   <id>http://yangjl.com/cn/jc/2014/02/19/Journal-Club-1</id>
    <content type="html">&lt;p&gt;在NGS时代，群体遗传学以及进化的光芒基本全部被铺天盖地的织袜子（关联分析，俗称GWAS，属数量遗传学）掩盖了。
 过去，那些方向是纯脑力劳动，年富力强的教授副教授们，啪啪啪啪，就能天马行空的整出文章来。看的人云里雾里。
 碍于历史和数据的局限，很多理论也无法证伪，只能争论争论作罢。&lt;/p&gt;
@@ -138,18 +138,18 @@ mutation load is insensitive to recent population history. Nature Genetics,\
  
  <entry>
    <title>hello world</title>
-   <link href="http://yangjl.me/cn/2013/11/05/hello-world"/>
+   <link href="http://yangjl.com/cn/2013/11/05/hello-world"/>
    <updated>2013-11-05T00:00:00-08:00</updated>
-   <id>http://yangjl.me/cn/2013/11/05/hello-world</id>
+   <id>http://yangjl.com/cn/2013/11/05/hello-world</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Jekyll Introduction</title>
-   <link href="http://yangjl.me/cn/lessons/2011/12/29/jekyll-introduction"/>
+   <link href="http://yangjl.com/cn/lessons/2011/12/29/jekyll-introduction"/>
    <updated>2011-12-29T00:00:00-08:00</updated>
-   <id>http://yangjl.me/cn/lessons/2011/12/29/jekyll-introduction</id>
+   <id>http://yangjl.com/cn/lessons/2011/12/29/jekyll-introduction</id>
    <content type="html">&lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we&#39;ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
@@ -557,9 +557,9 @@ or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you&#39;d like.
  
  <entry>
    <title>新年飞行</title>
-   <link href="http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2010/01/24/new-year-trip"/>
+   <link href="http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2010/01/24/new-year-trip"/>
    <updated>2010-01-24T00:00:00-08:00</updated>
-   <id>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2010/01/24/new-year-trip</id>
+   <id>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2010/01/24/new-year-trip</id>
    <content type="html">&lt;p&gt;2010年，从新年伊始，准确的说是新年前夜开始，启动这次三角飞行。一不小心升成了头等舱，于是义不容辞的被度了两周假。我知道那里有阳光沙滩美女和椰子树，但不曾想也经历了醉鬼骗子变态加流浪汉。所以，天堂和地狱，也许只隔一扇门。&lt;/p&gt;
 
 &lt;p&gt;飞行路线是这样的：埃姆斯|得梅因-丹佛-夏威夷；夏威夷-洛杉矶-圣地亚哥；圣地亚哥-圣保罗-得梅因|埃姆斯。两周，很晕。绕了半个美国，经历了天寒地冻和春暖花开。几多感受，但是淡定了很多。也会和别人说，但是全然不是兴高采烈的分享旅行感受。而是把自己经历的糗事大爆一下，供众人一乐。在Ames的娱乐圈里，我俨然已经成为娱乐大家的谐星或丑角了。真是杯具。&lt;/p&gt;
@@ -586,9 +586,9 @@ or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you&#39;d like.
  
  <entry>
    <title>高速惊魂未定</title>
-   <link href="http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/08/16/high-way-danger"/>
+   <link href="http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/08/16/high-way-danger"/>
    <updated>2009-08-16T00:00:00-07:00</updated>
-   <id>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/08/16/high-way-danger</id>
+   <id>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/08/16/high-way-danger</id>
    <content type="html">&lt;p&gt;心有余悸啊，心有余悸。&lt;/p&gt;
 
 &lt;p&gt;今天去了趟省城边的那个遥远的村串亲戚。&lt;/p&gt;
@@ -635,9 +635,9 @@ PS：我从来没在高速上开过没有目的地的车，而且一个人，而
  
  <entry>
    <title>诗性大发啊~</title>
-   <link href="http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/11/country-poetry"/>
+   <link href="http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/11/country-poetry"/>
    <updated>2009-08-11T00:00:00-07:00</updated>
-   <id>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/11/country-poetry</id>
+   <id>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/11/country-poetry</id>
    <content type="html">&lt;p&gt;俺是种田的，
 扛着锄头，一觉能睡到天黑，
 懒得说自己很懒，
