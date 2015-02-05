@@ -3,12 +3,82 @@
 <channel>
         <title>Jinliang Yang</title>
         <description>Jinliang Yang - Jinliang Yang</description>
-        <link>http://yangjl.me/cn</link>
-        <link>http://yangjl.me/cn</link>
-        <lastBuildDate>2014-03-30T17:26:57+08:00</lastBuildDate>
-        <pubDate>2014-03-30T17:26:57+08:00</pubDate>
+        <link>http://yangjl.com/cn</link>
+        <link>http://yangjl.com/cn</link>
+        <lastBuildDate>2015-01-16T17:48:25-08:00</lastBuildDate>
+        <pubDate>2015-01-16T17:48:25-08:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>致我亲爱的女儿</title>
+                <description>&lt;p&gt;写给OO的信&lt;/p&gt;
+</description>
+                <link>http://yangjl.com/cn/oo%E6%88%90%E9%95%BF%E5%BD%95/2015/01/27/for-OO</link>
+                <guid>http://yangjl.com/cn/oo%E6%88%90%E9%95%BF%E5%BD%95/2015/01/27/for-OO</guid>
+                <pubDate>2015-01-27T00:00:00-08:00</pubDate>
+        </item>
+
+        <item>
+                <title>拥有很多记忆的2014年</title>
+                <description>&lt;p&gt;总是太匆忙，想要记录新年的时候，一月已经过半，年也不新了。&lt;br/&gt;
+2014年对JJ和我注定是一个重要的转折年。这一年：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;我们迎来了此生无比挚爱的OO&lt;/li&gt;
+&lt;li&gt;我们被授予热泪盈眶却略有麻木的博士头衔&lt;/li&gt;
+&lt;li&gt;我们搬到了冬季下毛毛雨的加州Davis&lt;/li&gt;
+&lt;li&gt;我们找到赖以糊口的临时工作&lt;/li&gt;
+&lt;li&gt;。。。&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;我们还有很多经历，也许值得回忆，也许不久就会忘记。&lt;/p&gt;
+
+&lt;p&gt;这一年，JJ经历了车祸，发生在还有三天就搬到加州的Ames。我们知道毕业给了我们太多压力，神情恍惚。小小的意外，
+也许能让我们在今后的路上走的更小心。&lt;/p&gt;
+
+&lt;p&gt;这一年， 我丢失了大量数据，那是在离
+毕业还有三个月的紧张日子。忘了怎么挺过那段恢复数据的绝望了，但永远记得人生没有一路顺风，互相支持才能走得更远。&lt;/p&gt;
+
+&lt;p&gt;告别了Ames，六年的驿站。离开的时候说再也不要回到的地方。其实不然。这个我们相遇，相知，相爱的农村，民风淳朴
+的一如陶渊明的世外桃源。这个OO出生的地方，也可以叫做故乡。OO长大的那一天，我们也许会带她看一看爸妈求婚的
+小桥，OO降生的医院，姥姥姥爷推着她穿过的小路，奶奶带她荡过的秋千，妈妈种草的温室，爸爸种玉米的农田。。。&lt;/p&gt;
+
+&lt;p&gt;2015年，相信一切都好起来！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/UpzowjS.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/p&gt;
+</description>
+                <link>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2015/01/16/new-year-thinking</link>
+                <guid>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2015/01/16/new-year-thinking</guid>
+                <pubDate>2015-01-16T00:00:00-08:00</pubDate>
+        </item>
+
+        <item>
+                <title>文献俱乐部（2）</title>
+                <description>&lt;p&gt;有些牛文章让人读了热血沸腾，今天这篇就是。虽然是2012的老文了，居然有点相读恨晚的感觉。这里得提一下，德国的一些课题组，在基因组，转录组方面，尤其是在Arabidopsis里，那是相当突出啊。&lt;/p&gt;
+
+&lt;p&gt;文章的立意就是“动物胚胎生成时的沙漏模型在植物里也成立”，并提供了转录组方面的证据。如下图，沙漏模型是说，在胚胎发育早期，各个物种差异明显；但是到中期，进化趋同；然后后期，又开始趋异发育。这个胚胎发育模型在动物里提出，最近在果蝇里有了分子证据。作者的精彩之处在于，把这个猜想模型移植到植物里，然后用公开数据进行验证。这样的文章，堪称生物大数据的研究典范啊。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/eRwvfhO.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这个研究，应该是受&lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/21150997&quot;&gt;果蝇研究&lt;/a&gt;的启发。他们计算了转录组年龄指数（TAI）和转录组分化指数（TDI），具体细节参见文章本身。这些指数在拟南芥的七个胚发育阶段，呈现一种完美的沙漏曲线（如下图）。很简单，但是多漂亮的一个研究啊。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/BqI4EiL.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;所以，大数据研究的着眼点是什么？两点：
+1. 寻求经典的遗传学或生物学问题。
+2. 向公开数据挖掘证据，证明或者证伪。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Quint, M., Drost, H.-G., Gabel, A., Ullrich, K. K., Bönn, M., &amp;amp; Grosse, I. (2012). A transcriptomic hourglass in plant embryogenesis. Nature, 490(7418), 98–101. doi:10.1038/nature11394
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;&lt;i class=&quot;icon-folder-open&quot;&gt;&lt;/i&gt;&lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/22951968&quot;&gt;文献地址&lt;/a&gt;&lt;/h4&gt;
+</description>
+                <link>http://yangjl.com/cn/%E6%96%87%E7%8C%AE%E4%BF%B1%E4%B9%90%E9%83%A8/2014/04/09/Journal-Club-2</link>
+                <guid>http://yangjl.com/cn/%E6%96%87%E7%8C%AE%E4%BF%B1%E4%B9%90%E9%83%A8/2014/04/09/Journal-Club-2</guid>
+                <pubDate>2014-04-09T00:00:00-07:00</pubDate>
+        </item>
 
         <item>
                 <title>大数据时代的玉米遗传组学</title>
@@ -112,9 +182,9 @@
 
 &lt;p&gt;大数据时代，你准备好了吗？&lt;/p&gt;
 </description>
-                <link>http://yangjl.me/cn/%E5%AD%A6%E6%9C%AF%E5%8D%9A/2014/03/07/NGS-maize</link>
-                <guid>http://yangjl.me/cn/%E5%AD%A6%E6%9C%AF%E5%8D%9A/2014/03/07/NGS-maize</guid>
-                <pubDate>2014-03-07T00:00:00+08:00</pubDate>
+                <link>http://yangjl.com/cn/%E5%AD%A6%E6%9C%AF%E5%8D%9A/2014/03/07/NGS-maize</link>
+                <guid>http://yangjl.com/cn/%E5%AD%A6%E6%9C%AF%E5%8D%9A/2014/03/07/NGS-maize</guid>
+                <pubDate>2014-03-07T00:00:00-08:00</pubDate>
         </item>
 
         <item>
@@ -130,9 +200,9 @@
 
 &lt;p&gt;当然，也有聪明绝顶的大牛们，如上面这篇NG文章（希望作者本人没有绝顶）。作者在猜想，模拟，验证中，解决了两个蛮有意思的问题。而且，人家公开数据的再利用。在这个方面，值得再下功夫。&lt;/p&gt;
 </description>
-                <link>http://yangjl.me/cn/%E6%96%87%E7%8C%AE%E4%BF%B1%E4%B9%90%E9%83%A8/2014/02/19/Journal-Club-1</link>
-                <guid>http://yangjl.me/cn/%E6%96%87%E7%8C%AE%E4%BF%B1%E4%B9%90%E9%83%A8/2014/02/19/Journal-Club-1</guid>
-                <pubDate>2014-02-19T00:00:00+08:00</pubDate>
+                <link>http://yangjl.com/cn/%E6%96%87%E7%8C%AE%E4%BF%B1%E4%B9%90%E9%83%A8/2014/02/19/Journal-Club-1</link>
+                <guid>http://yangjl.com/cn/%E6%96%87%E7%8C%AE%E4%BF%B1%E4%B9%90%E9%83%A8/2014/02/19/Journal-Club-1</guid>
+                <pubDate>2014-02-19T00:00:00-08:00</pubDate>
         </item>
 
         <item>
@@ -141,9 +211,9 @@
 又或许是微x惹的祸（如微博微信），东转来，西转去，以至于很久没有自己的输出了，语文能力也随之下降明显。这些年的遗传学的训练，搞的遗传没学好，倒像是个半路出家的CS，喜欢上了折腾程序。在这准备毕业之际，老板不给力的情况下，自己总得搞点文字输出，算以总结自己这些年的所学所得吧。重拾博客，必然要换一个平台。在(谢老师)[]博客的启发下，决定整个‘高大上’的，像“hacker一样写博客“。久经折腾，终于把这个把这个小博客建立起来了。博客是建立在(github)[]上的，使用(Jekyll)[]搭建，字体和主页
 设计直接参照了谢老师[]的网站。博客分为中文和英文两个部分，用的是&lt;a href=&quot;&quot;&gt;bootstrap&lt;/a&gt;的模板，略经修改。中英两部分是相互独立。中文主要记录生活，英文则侧重于学术方面。希望今后有时间的时候，能够缓慢总结一下这些年的学习，感悟和生活。也记录自己刚出生的OO，以及她伟大的母亲大人。&lt;/p&gt;
 </description>
-                <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2014/02/10/new-blogger</link>
-                <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2014/02/10/new-blogger</guid>
-                <pubDate>2014-02-10T00:00:00+08:00</pubDate>
+                <link>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2014/02/10/new-blogger</link>
+                <guid>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2014/02/10/new-blogger</guid>
+                <pubDate>2014-02-10T00:00:00-08:00</pubDate>
         </item>
 
         <item>
@@ -170,9 +240,9 @@
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/1iceQDl.jpg&quot; alt=&quot;alt text&quot; /&gt;
                                 椰子树边的大房子&lt;/p&gt;
 </description>
-                <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2010/01/24/new-year-trip</link>
-                <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2010/01/24/new-year-trip</guid>
-                <pubDate>2010-01-24T00:00:00+08:00</pubDate>
+                <link>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2010/01/24/new-year-trip</link>
+                <guid>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2010/01/24/new-year-trip</guid>
+                <pubDate>2010-01-24T00:00:00-08:00</pubDate>
         </item>
 
         <item>
@@ -222,9 +292,9 @@ PS：我从来没在高速上开过没有目的地的车，而且一个人，而
 然后，开着冷气和低缓的乡村音乐。&lt;br/&gt;
 一路向北。&lt;/p&gt;
 </description>
-                <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/08/16/high-way-danger</link>
-                <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/08/16/high-way-danger</guid>
-                <pubDate>2009-08-16T00:00:00+08:00</pubDate>
+                <link>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/08/16/high-way-danger</link>
+                <guid>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/08/16/high-way-danger</guid>
+                <pubDate>2009-08-16T00:00:00-07:00</pubDate>
         </item>
 
         <item>
@@ -244,9 +314,9 @@ PS：我从来没在高速上开过没有目的地的车，而且一个人，而
 倘若能多打几筐玉米，&lt;br/&gt;
 明年就养头猪。&lt;/p&gt;
 </description>
-                <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/11/country-poetry</link>
-                <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/11/country-poetry</guid>
-                <pubDate>2009-08-11T00:00:00+08:00</pubDate>
+                <link>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/11/country-poetry</link>
+                <guid>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/11/country-poetry</guid>
+                <pubDate>2009-08-11T00:00:00-07:00</pubDate>
         </item>
 
         <item>
@@ -282,9 +352,9 @@ PS：我从来没在高速上开过没有目的地的车，而且一个人，而
 &lt;p&gt;如果，如果前面还有路， &lt;br/&gt;
 我会鄙视那路边的红罂粟。&lt;/p&gt;
 </description>
-                <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/10/last-memorial</link>
-                <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/10/last-memorial</guid>
-                <pubDate>2009-08-10T00:00:00+08:00</pubDate>
+                <link>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/10/last-memorial</link>
+                <guid>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2009/08/10/last-memorial</guid>
+                <pubDate>2009-08-10T00:00:00-07:00</pubDate>
         </item>
 
         <item>
@@ -336,9 +406,9 @@ PS：我从来没在高速上开过没有目的地的车，而且一个人，而
 &lt;/ul&gt;
 
 </description>
-                <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/07/25/a-day-in-the-lab</link>
-                <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/07/25/a-day-in-the-lab</guid>
-                <pubDate>2009-07-25T00:00:00+08:00</pubDate>
+                <link>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/07/25/a-day-in-the-lab</link>
+                <guid>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/07/25/a-day-in-the-lab</guid>
+                <pubDate>2009-07-25T00:00:00-07:00</pubDate>
         </item>
 
         <item>
@@ -356,9 +426,9 @@ PS：我从来没在高速上开过没有目的地的车，而且一个人，而
 &lt;p&gt;PS1：其实，最近我很想写点什么，又不知道从哪起头，而且也太忙了，一个暑假，要Fine Mapping三个群体（尽管死了一个），还要配另外的10个QTL群体，提10 000个DNA，做20 000个孔的PCR，不好的还得重复，都得了Genotyping综合症了。关于写博客，很想写点什么，其实开了好几个头，但都没写完而扔到一边了。
 总之，很累，真的很累。&lt;/p&gt;
 </description>
-                <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/07/21/my-dream</link>
-                <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/07/21/my-dream</guid>
-                <pubDate>2009-07-21T00:00:00+08:00</pubDate>
+                <link>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/07/21/my-dream</link>
+                <guid>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2009/07/21/my-dream</guid>
+                <pubDate>2009-07-21T00:00:00-07:00</pubDate>
         </item>
 
         <item>
@@ -367,9 +437,9 @@ PS：我从来没在高速上开过没有目的地的车，而且一个人，而
 
 &lt;p&gt;老爸小时候常跟我说，玉不琢不成器，而且，大器当晚成。话对了一半，大器晚成肯定是相对与早成来说的，否则没有早成也就没有晚成。全世界PhD的琢磨时间的钟垂曲线的权重部分应该落在3—5年吧，为什么我却落在了一个5—8年的实验室里，郁闷。话说老板人是很Nice的，知识丰富，管理水平也高，但是对科学和自己手下学生成功毕业的定义也相对严格。3篇paper，放在任何一个lab也是很难的吧，而且似乎至少也得是5+的啊。老板不说5+，他把发paper的标准定义为，有一定的科学贡献。当然不是随便攒的那种（&gt;_&amp;lt;） 再话说，现在我当然可以踌躇满志，立志早发早毕业。但是时间长了，还有这份激情吗?答案肯定是否定的，没有人比我更了解自己的没长性。当初选的时候，难度我是知道的，但是仅仅把它当成一种鞭策，注意到这样出来的会很牛，但是没有想到另一方面，那就是，万一出不来呢？呜呼~&lt;/p&gt;
 </description>
-                <link>http://yangjl.me/cn/%E5%8C%97%E7%BE%8E%E6%B5%81%E6%B0%B4%E8%B4%A6/2008/11/09/grad-years</link>
-                <guid>http://yangjl.me/cn/%E5%8C%97%E7%BE%8E%E6%B5%81%E6%B0%B4%E8%B4%A6/2008/11/09/grad-years</guid>
-                <pubDate>2008-11-09T00:00:00+08:00</pubDate>
+                <link>http://yangjl.com/cn/%E5%8C%97%E7%BE%8E%E6%B5%81%E6%B0%B4%E8%B4%A6/2008/11/09/grad-years</link>
+                <guid>http://yangjl.com/cn/%E5%8C%97%E7%BE%8E%E6%B5%81%E6%B0%B4%E8%B4%A6/2008/11/09/grad-years</guid>
+                <pubDate>2008-11-09T00:00:00-08:00</pubDate>
         </item>
 
         <item>
@@ -414,9 +484,9 @@ Xin Hao, Science in China: 30 Years on. Cell 134, August 8, 2008: 375-377.
 
 &lt;p&gt;吴瑞在国家复苏的时候构想了CUSBEA项目去帮助中国科学的发展。吴先生，今年二月去世，享龄79岁，在他寄语CUSBEA25周年庆的时候乐观的表示：“再过25年，中国科学家将是世界科学进步的主要贡献者。”伴随着奥运圣火在国家体育场上燃烧，中国的科学家——尤其是在国内工作的——如果还清醒的话，肯定会意识到要实现吴先生的梦想，仍然有很长的路要走。&lt;/p&gt;
 </description>
-                <link>http://yangjl.me/cn/%E7%A7%91%E7%A0%94%E4%B9%8B%E9%81%93/2008/10/12/science-in-China</link>
-                <guid>http://yangjl.me/cn/%E7%A7%91%E7%A0%94%E4%B9%8B%E9%81%93/2008/10/12/science-in-China</guid>
-                <pubDate>2008-10-12T00:00:00+08:00</pubDate>
+                <link>http://yangjl.com/cn/%E7%A7%91%E7%A0%94%E4%B9%8B%E9%81%93/2008/10/12/science-in-China</link>
+                <guid>http://yangjl.com/cn/%E7%A7%91%E7%A0%94%E4%B9%8B%E9%81%93/2008/10/12/science-in-China</guid>
+                <pubDate>2008-10-12T00:00:00-07:00</pubDate>
         </item>
 
         <item>
@@ -427,9 +497,9 @@ Xin Hao, Science in China: 30 Years on. Cell 134, August 8, 2008: 375-377.
 
 &lt;p&gt;新的一周又要开始了。唉。。。。。。。。。&lt;/p&gt;
 </description>
-                <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2006/05/14/pressure</link>
-                <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2006/05/14/pressure</guid>
-                <pubDate>2006-05-14T00:00:00+08:00</pubDate>
+                <link>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2006/05/14/pressure</link>
+                <guid>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2006/05/14/pressure</guid>
+                <pubDate>2006-05-14T00:00:00-07:00</pubDate>
         </item>
 
         <item>
@@ -454,9 +524,9 @@ There are pastures in those hills. Meadows too, as rich as any. And men and wome
 &lt;p&gt;守旧老人，听这名字就得鄙视。无知的守旧，无知的快活。&lt;br/&gt;
 算了，暗暗的鄙视鄙视，然后继续当自己的白痴。&lt;/p&gt;
 </description>
-                <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2006/05/10/tolerance</link>
-                <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2006/05/10/tolerance</guid>
-                <pubDate>2006-05-10T00:00:00+08:00</pubDate>
+                <link>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2006/05/10/tolerance</link>
+                <guid>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2006/05/10/tolerance</guid>
+                <pubDate>2006-05-10T00:00:00-07:00</pubDate>
         </item>
 
         <item>
@@ -469,9 +539,9 @@ There are pastures in those hills. Meadows too, as rich as any. And men and wome
 
 &lt;p&gt;Self made person!——命运自我缔造！缔造生活的过程尽管艰辛，但是也着实令人沉醉，有点喜欢上了这种精神错乱的生活状态，底线是只要不会变成白痴。&lt;/p&gt;
 </description>
-                <link>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2006/05/03/self-made-person</link>
-                <guid>http://yangjl.me/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2006/05/03/self-made-person</guid>
-                <pubDate>2006-05-03T00:00:00+08:00</pubDate>
+                <link>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2006/05/03/self-made-person</link>
+                <guid>http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E8%B5%B0%E8%B5%B0/2006/05/03/self-made-person</guid>
+                <pubDate>2006-05-03T00:00:00-07:00</pubDate>
         </item>
 
 
