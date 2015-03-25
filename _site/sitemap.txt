@@ -9,6 +9,7 @@ http://yangjl.com/cn/rss.xml
 http://yangjl.com/cn/sitemap.txt
 http://yangjl.com/cn/tags.html
 
+http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2015/02/06/rainning-night
 http://yangjl.com/cn/oo%E6%88%90%E9%95%BF%E5%BD%95/2015/01/27/for-OO
 http://yangjl.com/cn/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2015/01/16/new-year-thinking
 http://yangjl.com/cn/%E6%96%87%E7%8C%AE%E4%BF%B1%E4%B9%90%E9%83%A8/2014/04/09/Journal-Club-2
