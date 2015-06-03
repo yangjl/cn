@@ -10,6 +10,7 @@ tags: [生活, OO]
 
 幸福的一家
 
+O妈回国，签证滞留，在O姥家整了一面漂亮的照片墙。
 
 ![Imgur](http://i.imgur.com/7xGuetq.jpg)
 
