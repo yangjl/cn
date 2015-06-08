@@ -9,6 +9,8 @@ http://yangjl.com/rss.xml
 http://yangjl.com/sitemap.txt
 http://yangjl.com/tags.html
 
+http://yangjl.com/%E5%AD%A6%E6%9C%AF%E5%8D%9A/2015/06/01/popgen
+http://yangjl.com/oo%E6%88%90%E9%95%BF%E5%BD%95/2015/04/17/wall-of-pic
 http://yangjl.com/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2015/03/30/china-analysis
 http://yangjl.com/%E6%9C%89%E6%97%B6%E5%81%9C%E5%81%9C/2015/02/06/rainning-night
 http://yangjl.com/oo%E6%88%90%E9%95%BF%E5%BD%95/2015/01/27/for-OO
