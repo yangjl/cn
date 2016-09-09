@@ -2,7 +2,11 @@
 name: "Jinliang Yang"
 description: "My blog"
 
+<<<<<<< HEAD
 url: "http://yangjl.com"
+=======
+url: "http://yangjl.com/cn"
+>>>>>>> 4b14b7fac4499724ad9ff659fc4a0370e6fa324c
 
 paginate: 10
 
@@ -38,7 +42,11 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
+<<<<<<< HEAD
 production_url : http://yangjl.com/cn
+=======
+production_url : http://yangjl.com
+>>>>>>> 4b14b7fac4499724ad9ff659fc4a0370e6fa324c
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
